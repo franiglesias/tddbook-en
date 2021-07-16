@@ -1,18 +1,18 @@
-## El camino del TDD
+## The way to TDD
 
 **This is a work in progress**
 
-Proyecto de libro para facilitar el aprendizaje de TDD, con propuestas de katas secuenciadas para tratar diversos aspectos de la metodología. Las katas se estructuran con enunciado, un ejemplo de resolución y una explicación desarrollada del principal aspecto trabajado en ellas.
+Book project to help learning TDD, with several proposals of sequenced katas to address several details of the methodology. Katas are organized in formulation, resolution examples and a complete explanation of the main point illustrated with the exercise.
 
-El libro podría usarse como soporte para un plan de formación en TDD. Cada una de las katas ha sido seleccionada y orientada para ilustrar un aspecto específico del proceso de test driven development.
+You could use the book as support material for a TDD course. Each kata was selected and oriented to exemplify an specific point in the test driven development process.
 
-Por otro lado, cada una de las katas se desarrolla en un lenguaje diferente.
+Each kata is developed in a different programming language.
 
-## Contenidos
+## Contents
 
 WIP
 
-## Repositorios de katas
+## Kata repositories
 
 * [Katalyst](https://katalyst.codurance.com)
 * [Kata-log](https://kata-log.rocks/index.html)
@@ -20,7 +20,7 @@ WIP
 * [Codekata](http://codekata.com)
 * [Agile kata](http://agilekatas.co.uk)
 
-## Repositorios con los ejemplos del libro
+## Repositories with examples from the book
 
 * [Ruby](https://github.com/franiglesias/tddbook-ruby)
 * [JS](https://github.com/franiglesias/tddbook-js)
@@ -28,6 +28,6 @@ WIP
 * [Go](https://github.com/franiglesias/tddbook-go)
 * [Kotlin](https://github.com/franiglesias/kotlinKata)
 
-## Repositorio para prácticas en PHP
+## PHP practice repository
 
 * [PHP](https://github.com/franiglesias/tb)
